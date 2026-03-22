@@ -1,0 +1,8 @@
+supplier_id,lot_id,received_qty,defect_qty,defect_category,scar_days,status
+S4001,L001,10000,15,Seal,12,Approved
+S4001,L002,12000,18,Seal,10,Approved
+S4002,L003,8000,30,Label,21,Escalated
+S4003,L004,7500,8,Particulate,6,Approved
+S4002,L005,8200,21,Label,18,Open
+S4004,L006,9500,5,Seal,5,Approved
+S4005,L007,11000,40,Contamination,25,Escalated

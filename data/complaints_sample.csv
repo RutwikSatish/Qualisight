@@ -1,0 +1,11 @@
+complaint_id,date,product,defect_category,severity,root_cause,status
+C1001,2026-01-02,Catheter,Leak,5,Seal fit,Closed
+C1002,2026-01-05,Catheter,Leak,4,Seal fit,Open
+C1003,2026-01-08,Pump,Noise,3,Bearing wear,Closed
+C1004,2026-01-15,Sensor,Calibration drift,2,Software,Closed
+C1005,2026-01-22,Catheter,Seal,5,Handling damage,Open
+C1006,2026-02-01,Pump,Leak,4,Gasket issue,Closed
+C1007,2026-02-05,Sensor,Signal loss,3,Connector fault,Open
+C1008,2026-02-10,Catheter,Leak,5,Seal fit,Open
+C1009,2026-02-14,Pump,Noise,2,Bearing wear,Closed
+C1010,2026-02-18,Sensor,Calibration drift,3,Software,Closed

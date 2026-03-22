@@ -1,0 +1,6 @@
+capa_id,opened_date,target_close_date,closed_date,root_cause,status,effectiveness
+CA3001,2026-01-05,2026-01-20,2026-01-18,Setup,Closed,Effective
+CA3002,2026-01-10,2026-02-05,,Seal fit,Open,Pending
+CA3003,2026-01-15,2026-02-10,,Handling,Open,Pending
+CA3004,2026-02-01,2026-02-20,,Cleanroom breach,Open,Pending
+CA3005,2026-02-05,2026-02-25,,Artwork,Open,Pending

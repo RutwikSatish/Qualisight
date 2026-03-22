@@ -1,0 +1,11 @@
+ncm_id,date,line,defect_category,severity,root_cause,capa_linked,status
+N2001,2026-01-03,L1,Seal,5,Setup,Y,Open
+N2002,2026-01-06,L1,Seal,4,Setup,Y,Closed
+N2003,2026-01-10,L2,Scratch,2,Handling,N,Closed
+N2004,2026-01-18,L2,Label,2,Artwork,N,Closed
+N2005,2026-01-25,L1,Seal,5,Setup,Y,Open
+N2006,2026-02-02,L3,Contamination,5,Cleanroom breach,Y,Open
+N2007,2026-02-07,L2,Scratch,2,Handling,N,Closed
+N2008,2026-02-12,L1,Seal,4,Setup,Y,Open
+N2009,2026-02-16,L3,Contamination,5,Cleanroom breach,Y,Open
+N2010,2026-02-20,L2,Label,3,Artwork,N,Closed

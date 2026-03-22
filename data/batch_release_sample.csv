@@ -1,0 +1,8 @@
+batch_id,date,reviewer,missing_fields,deviation_flag,approval_time_hours,release_status
+B5001,2026-01-04,A,0,No,8,Released
+B5002,2026-01-10,A,2,Yes,16,Released
+B5003,2026-01-20,B,4,Yes,34,Hold
+B5004,2026-02-03,B,1,No,10,Released
+B5005,2026-02-08,C,3,Yes,28,Hold
+B5006,2026-02-15,C,0,No,6,Released
+B5007,2026-02-22,A,5,Yes,40,Hold
