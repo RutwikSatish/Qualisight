@@ -77,7 +77,7 @@ pip install -r requirements.txt
 # Run app
 streamlit run app.py
 🌐 Live Demo
-👉 (Add your Streamlit link here after deployment)
+👉 (https://qualisight.streamlit.app/)
 🛠️ Tech Stack
 Python
 Streamlit
